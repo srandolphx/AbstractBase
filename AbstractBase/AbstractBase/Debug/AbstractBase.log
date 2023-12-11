@@ -1,0 +1,16 @@
+﻿  AbstractBase.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(31,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(68,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(109,32): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(109,22): warning C4309: 'argument': truncation of constant value
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(109,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(125,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(146,31): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(146,21): warning C4309: 'argument': truncation of constant value
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(149,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(165,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(176,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(182,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(185,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\AbstractBase\AbstractBase.cpp(83): warning C4715: 'AddEntry': not all control paths return a value
+  AbstractBase.vcxproj -> C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\AbstractBase\Debug\AbstractBase.exe
